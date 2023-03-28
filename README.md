@@ -1,8 +1,8 @@
 👋 Hi, I’m @BraiansSins.
 
-👀 I’m interested in Development Front-End .
+👀 I’m interested in Development BackEnd.
 
-🌱 I’m currently learning JavaScript and React.
+🌱 I’m currently learning Java, SpringBoot, Flutter and Kotlin.
 
 💞️ I’m looking to start as junior.
 
